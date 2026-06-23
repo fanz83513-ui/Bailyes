@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://img2.pixhost.to/images/7538/720347067_asepnotdev.jpg" alt="New Bailyes AsepNotDev" width="100%" />
+<img src="https://b.top4top.io/p_38261f0xq0.jpg" alt="New Bailyes FanzNotDev" width="100%" />
 
 <br/>
 <br/>
@@ -26,7 +26,7 @@ Built on WebSocket for speed, stability, and full multi-device support.
 
 ---
 
-## What is Baileys Asep?
+## What is Baileys Fanz?
 
 **WhatsApp Baileys Asep** is a powerful, open-source library for developers who need reliable WhatsApp automation without the overhead of a browser. Powered by **WebSocket technology**, it supports message management, group administration, interactive messages, and action buttons 2014 all in a lightweight and modular package.
 
