@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://img2.pixhost.to/images/8879/743056578_papaqueen.jpg" alt="New Bailyes AsepNotDev" width="100%" />
+<img src="https://img2.pixhost.to/images/8879/743056578_papaqueen.jpg" alt="New Bailyes FanzIsHere" width="100%" />
 
 <br/>
 <br/>
 
-# WhatsApp Baileys Asep
+# WhatsApp Baileys Fanz
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
